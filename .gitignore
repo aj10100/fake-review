@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# editor and ide configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# os generated files
+.DS_Store
+Thumbs.db
